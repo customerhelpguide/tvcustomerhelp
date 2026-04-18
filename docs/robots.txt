@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tvcustomerhelp.readthedocs.io/en/latest/sitemap.xml
